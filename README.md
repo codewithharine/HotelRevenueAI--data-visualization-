@@ -89,6 +89,30 @@ To forecast future demand and analyze cancellations and no-shows.
 A decision-support dashboard highlighting future demand, risk areas, and booking behavior patterns.
 
 ---
+# Milestone 4 – Revenue Strategy Dashboard
+
+## Pricing Tier Logic
+Pricing recommendations were derived by analyzing ADR and seasonal demand. 
+High-demand seasons with lower ADR suggest potential price increases, while low-demand periods indicate promotional opportunities.
+
+## Upsell Strategy Identification
+Upsell potential was estimated based on occupancy levels and room category performance. 
+High occupancy periods indicate opportunities to promote spa, dining, and premium services.
+
+## Seasonal Promotion Insights
+- Winter shows peak revenue performance.
+- Summer requires promotional pricing strategies.
+- Direct booking channels provide higher profitability.
+
+## Key Revenue Improvement Recommendations
+- Increase ADR in high-demand seasons.
+- Offer bundled services for premium room categories.
+- Promote direct booking incentives to reduce OTA dependency.
+
+## Business Impact
+The strategy dashboard enables data-driven pricing adjustments, optimized occupancy management, and improved revenue forecasting.
+
+--- 
 
 ## 🛠 Tools Used
 - Power BI Desktop
