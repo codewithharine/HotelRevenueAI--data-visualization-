@@ -7,12 +7,12 @@ The work is structured into three milestones, each building on the previous one.
 
 ## 📁 Project Structure
 
-HotelRevenueAI--data-visualization-  
-├── Milestone 1  
-├── Milestone 2  
-├── Milestone 3  
+HotelRevenueAI--data-visualization-
+├── Milestone 1
+├── Milestone 2
+├── Milestone 3
 ├── Milestone 4
-└── README.md  
+└── README.md
 
 ---
 
